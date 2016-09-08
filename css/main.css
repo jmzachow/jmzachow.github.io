@@ -1,0 +1,131 @@
+body {
+  font-family: Open Sans;
+}
+
+.custom-font{
+  font-family: 'Megrim', cursive;
+  font-weight: 800; 
+  text-decoration: underline;
+}
+
+h1 {   
+  font-size: 7em;
+  text-decoration: none !important;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+p {
+  font-size: 26px;
+  }
+
+#myNavBar li {
+  padding-left: 20px;  
+}
+
+#myNavBar li i {
+  padding-right: 2px;
+}
+
+.header {
+  padding-top: 20%;
+  padding-bottom: 25%;
+  text-align: center;
+  color: #7f6849;
+  text-shadow: 2px 2px 2px #222;
+}
+
+.header-image {
+  background: url("http://res.cloudinary.com/jumiza/image/upload/v1472933364/computer_coffee_sk6eun.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.info-background {
+  background-color: #F1f2f0;
+  background-size: cover;
+}
+
+.info {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  color: #222;
+}
+
+.larger-font {
+  font-size: 36px;
+}
+
+.smaller-font {
+  font-size: 16px;
+}
+
+.portfolio {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+  color: #F1F2F0;
+  text-shadow: 3px 3px 3px black;
+  background: url("http://res.cloudinary.com/jumiza/image/upload/v1473213019/notebook-hero-workspace-minimal_eihbtc.jpg");
+  background-size: cover;
+}
+
+#portfolio {
+  background: rgba(170,119,92, 0.1);
+}
+
+.well {
+  background: transparent;
+  border: none;
+  padding: 5px;
+  color: #F1F2F0;
+  }
+
+.well:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.contact {
+  text-align: center;
+   color: #4F5458;
+  padding-bottom: 60px;
+}
+
+.contact h2 {
+  padding-top: 60px;
+}
+
+.contact h3 {
+  padding-top: 40px;
+}
+
+
+.buttons {
+  padding-top: 60px;
+  padding-right: 20%;
+  display: inline;
+}
+
+.buttons button {
+ font-size: 30px;  
+  background: #222;
+  color: #F1F2F0;
+}
+
+button i {
+  padding-right: 10px;
+}
+
+.footer {
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: center;
+  background-color: black;
+  color: white;
+ }
+
+.footer p {
+  padding-top: 20px;
+  font-size: 15px;
+}
